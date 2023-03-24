@@ -8,7 +8,7 @@ Steps To Create Ec2 Instance
 5. select the OS which user asked for.
 6. select the instance configuration as needed 
 7. select the existing keypair or create a new pair if not there .
-8. (if any more configurations needed add them based on the user requirements) Optional
+8. If any more configurations needed add them based on the user requirements Optional
 9. click on launch instance
 
 # Login Using Mobaexterm
@@ -21,3 +21,6 @@ Steps To Create Ec2 Instance
 5. Enter the username same as in the AWS Counsoul
 6. Click on advanced SSH Setting in that brouse our keypair in .pem file format 
 7. select Ok now you are successfully loged into the aws ec2 instance..
+
+
+Thank You
